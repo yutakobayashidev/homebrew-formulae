@@ -13,7 +13,7 @@ cask 'jquake' do
   
     name 'JQuake'
     desc "JQuake is a real-time earthquake monitoring program for Japan."
-    homepage 'https://jquake.net/'
+    homepage 'https://jquake.net'
   
     app 'JQuake.app'
   end  
