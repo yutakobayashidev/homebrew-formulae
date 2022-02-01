@@ -7,5 +7,5 @@ brew tap yutakobayashidev/formulae
 ```
 
 ```sh
-brew install --cask jquake
+brew install <formulae>
 ```
